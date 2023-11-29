@@ -13,6 +13,8 @@ Skills: ***Python / Vim/Emacs / Powershell / TDD & BDD / OOP***
 - 📫 How to reach me: discord @arthurmiiengineering **or** email @arthurmiiengineering@gmail.com 
 - ⚡ Fun fact: I love game dev, especially text based games 
 
+Linkedin: https://www.linkedin.com/in/arthur-maul-5257b12a2/
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=arthurmiiengineering)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmiiengineering)](https://github.com/anuraghazra/github-readme-stats)
