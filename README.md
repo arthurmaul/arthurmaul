@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Arthur!
-#### I'm an aspriring software engineer with special interest in efficient data and algorithm engineering, architecture design, and system thinking/modelling.
+#### I'm a software architect with special interest in efficient data and algorithm engineering, architecture design, and system thinking/modelling.
 ![I'm a software engineer with special interest in efficient data and algorithm engineering, architecture design, and system thinking/modelling.](https://github.com/arthurmiiengineering/arthurmiiengineering/assets/152435012/7d407f8c-05ed-4545-b1b2-268b00ad2683)
 
 I'm happy to help with freelance work,  collaboration, open source project development, tutoring, and mentoring.
