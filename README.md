@@ -1,5 +1,6 @@
-Linkedin: https://www.linkedin.com/in/arthur-maul-5257b12a2/
+[https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
 
+https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge
 ![github](https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Github-black?logo=githubt&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Vim-black?logo=vim&logoColor-white&style=for-the-badge)
