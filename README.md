@@ -10,7 +10,6 @@
 
 ---
 
-## Links & socials
 [LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
 
 You can contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering.
