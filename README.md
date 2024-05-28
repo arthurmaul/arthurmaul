@@ -1,6 +1,6 @@
-[https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
+[LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
+you can also contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering
 
-https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge
 ![github](https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Github-black?logo=githubt&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Vim-black?logo=vim&logoColor-white&style=for-the-badge)
