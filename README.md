@@ -4,7 +4,6 @@ Linkedin: https://www.linkedin.com/in/arthur-maul-5257b12a2/
 ![github](https://img.shields.io/badge/-Github-black?logo=githubt&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Vim-black?logo=vim&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Neovim-black?logo=neovim&logoColor-white&style=for-the-badge)
-![github](https://img.shields.io/badge/-SQL-black?logo=sql&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-C-black?logo=c&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Go-black?logo=go&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Nim-black?logo=nim&logoColor-white&style=for-the-badge)
