@@ -1,6 +1,3 @@
-[LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
-you can also contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering
-
 ![github](https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Github-black?logo=githubt&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Vim-black?logo=vim&logoColor-white&style=for-the-badge)
@@ -12,5 +9,9 @@ you can also contact me through email at arthurmiiengineering@gmail.com or find 
 ![github](https://img.shields.io/badge/-Numpy-black?logo=numpy&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor-white&style=for-the-badge)
+
+[LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
+
+you can also contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmiiengineering)](https://github.com/anuraghazra/github-readme-stats)
