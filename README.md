@@ -5,6 +5,8 @@ Linkedin: https://www.linkedin.com/in/arthur-maul-5257b12a2/
 ![github](https://img.shields.io/badge/-Vim-black?logo=vim&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Neovim-black?logo=neovim&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-C-black?logo=c&logoColor-white&style=for-the-badge)
+![github](https://img.shields.io/badge/-Go-black?logo=go&logoColor-white&style=for-the-badge)
+![github](https://img.shields.io/badge/-Nim-black?logo=nim&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Python-black?logo=python&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Numpy-black?logo=numpy&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor-white&style=for-the-badge)
