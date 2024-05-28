@@ -8,8 +8,7 @@
 ![github](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor-white&style=for-the-badge)
 
+# Links & socials
 [LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
 
-you can also contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmiiengineering)](https://github.com/anuraghazra/github-readme-stats)
+You can contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering.
