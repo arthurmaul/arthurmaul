@@ -8,7 +8,9 @@
 ![github](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor-white&style=for-the-badge)
 
-# Links & socials
+---
+
+## Links & socials
 [LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
 
 You can contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering.
