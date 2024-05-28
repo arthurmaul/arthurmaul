@@ -1,7 +1,5 @@
 ![github](https://img.shields.io/badge/-Git-black?logo=git&logoColor-white&style=for-the-badge)
-![github](https://img.shields.io/badge/-Github-black?logo=githubt&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Vim-black?logo=vim&logoColor-white&style=for-the-badge)
-![github](https://img.shields.io/badge/-Neovim-black?logo=neovim&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-C-black?logo=c&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Go-black?logo=go&logoColor-white&style=for-the-badge)
 ![github](https://img.shields.io/badge/-Nim-black?logo=nim&logoColor-white&style=for-the-badge)
