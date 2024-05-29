@@ -10,6 +10,6 @@
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
+[LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/) [discord](https://discordapp.com/users/1245417970121834596/)
 
 You can contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering.
