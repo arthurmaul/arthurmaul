@@ -11,9 +11,11 @@
 ---
 
 ![github](https://img.shields.io/badge/-Linkedin-black?logo=linkdedin&logoColor-white&style=for-the-badge)
+
 [arthur maul](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
 
 ![github](https://img.shields.io/badge/-Discord-black?logo=discord&logoColor-white&style=for-the-badge)
+
 [arthurmaul.business](https://discordapp.com/users/1245417970121834596/)
 
 You can contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering.
