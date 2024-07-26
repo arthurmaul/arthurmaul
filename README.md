@@ -10,10 +10,6 @@
 
 ---
 
-![github](https://img.shields.io/badge/-Linkedin-black?logo=linkdedin&logoColor-white&style=for-the-badge)
-[LinkedIn](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
-
-![github](https://img.shields.io/badge/-Discord-black?logo=discord&logoColor-white&style=for-the-badge)
-[arthurmaul.business](https://discordapp.com/users/1245417970121834596/)
-
-You can contact me through email at arthurmiiengineering@gmail.com or find me on discord as arthurmiiengineering.
+My linked in profile is [Here](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
+or you can contact me through my discord [here](https://discordapp.com/users/1245417970121834596/)
+or my email at *arthurmiiengineering@gmail.com*
