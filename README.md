@@ -11,5 +11,5 @@
 ---
 
 My linked in profile is [Here](https://www.linkedin.com/in/arthur-maul-5257b12a2/)
-or you can contact me through my discord [here](https://discordapp.com/users/1245417970121834596/)
+or you can contact me through my discord [Here](https://discordapp.com/users/1245417970121834596/)
 or my email at *arthurmiiengineering@gmail.com*
