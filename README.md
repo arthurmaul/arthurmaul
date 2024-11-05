@@ -1,19 +1,19 @@
 ```py
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@         arthur@maulii                                
  @@@@@@@                  @@@@@@@@@        ----------------------                      
-  @@@@@@@                       @@@        OS: Arch Linux                           
-    @@@@@@                       @@@       IDE: Helix                            
+  @@@@@@@                       @@@        os: Arch Linux                           
+    @@@@@@                       @@@       ide: Helix                            
      @@@@@@@                      @@                                   
       @@@@@@@                     @@       capability(stable):                            
         @@@@@@                    @@       ----------------------                            
-         @@@@@@                            type.HighLevel: Python, Javascript, HTML, CSS                          
-          @@@@@@@                          type.LowLevel: C, C++, Golang                         
-            @@@@@@                         type.Misc: SQL                       
+         @@@@@@                            highLevel: Python, Javascript, HTML, CSS                          
+          @@@@@@@                          lowLevel: C, C++, Golang                         
+            @@@@@@                         misc: SQL                       
              @@@@                                               
             @@@                            contact:                         
           @@@                     @@       ----------------------                            
-         @@@                      @@       LinkedIn: arthur-maul                            
-       @@@                       @@@       Gmail: arthurmiiengineering@gmail.com                             
+         @@@                      @@       linkedIn: arthur-maul                            
+       @@@                       @@@       gmail: arthurmiiengineering@gmail.com                             
       @@@                        @@@                                   
     @@@                        @@@@                                    
   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                    
