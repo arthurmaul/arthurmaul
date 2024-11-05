@@ -20,8 +20,6 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
 ```
 
-[![](https://visitcount.itsvg.in/api?id=arthurmaul&icon=5&color=4)](https://visitcount.itsvg.in)
-
 ---
 
 <div align="center">
