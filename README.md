@@ -24,11 +24,23 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=arthurmaul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=arthurmaul&theme=dark&hide_border=false)
-<a href="https://github.com/arthurmaul/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmaul&theme=dark&include_all_commits=false&count_private=false)" />
-</a>
+<div align="center">
+  <a href="https://github.com/arthurmaul">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmaul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arthurmaul"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmaul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arthurmaul"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/arthurmaul">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurmaul&&theme=tokyonight" alt="arthurmaul" />
+  </a>
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+<p align="center">
+  <a href="https://github.com/arthurmaul">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="arthurmaul" />
+  </a>
+</p>
 
