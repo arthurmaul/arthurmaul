@@ -1,23 +1,23 @@
 ```py
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                     
- @@@@@@@                       @@@@@@@@@        arthur@maulii                         
-  @@@@@@@                            @@@        ----------------------                          
-    @@@@@@                            @@@       os: Arch Linux                          
-     @@@@@@@                           @@       ide: Helix                                
-      @@@@@@@                          @@                                
-        @@@@@@                         @@       capability(stable):                            
-         @@@@@@                                 ----------------------                           
-          @@@@@@@                               highLevel: Python, Javascript, HTML, CSS                    
-            @@@@@@                              lowLevel: C, C++, Golang                           
-             @@@@                               misc: SQL                   
-            @@@                                                       
-           @@@                         @@       contact:                              
-         @@@                           @@       ----------------------                           
-        @@@                           @@@       linkedIn: arthur-maul                           
-      @@@                             @@@       gmail: arthurmiiengineering@gmail.com                                
-    @@@                             @@@@                                    
-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                    
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ @@@@@@@                       @@@@@@@@@        arthur@maulii
+  @@@@@@@                            @@@        ----------------------
+    @@@@@@                            @@@       os: Arch Linux
+     @@@@@@@                           @@       ide: Helix
+      @@@@@@@                          @@
+        @@@@@@                         @@       capability(stable):
+         @@@@@@                                 ----------------------
+          @@@@@@@                               highLevel: Python, Javascript, HTML, CSS
+            @@@@@@                              lowLevel: C, C++, Golang
+             @@@@                               misc: SQL
+            @@@
+           @@@                         @@       contact:
+         @@@                           @@       ----------------------
+        @@@                           @@@       linkedIn: arthur-maul
+      @@@                             @@@       gmail: arthurmiiengineering@gmail.com
+    @@@                             @@@@
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
 ---
