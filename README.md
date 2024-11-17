@@ -5,15 +5,15 @@
                         .:-----.    :      -                   arthur@maulii
                  . ###########%%%:                             ------------------------
                  ######****##*%%%%                             os: Arch Linux
-               =######*#**##***###%                            editor: Helix, Vim, Neovim
-              .############*******#                            multiplexer: TMUX, Zellij
+               =######*#**##***###%                            editor: Vim, Neovim
+              .############*******#                            multiplexer: TMUX
               ###+##     %****##***#
               ##-#      -%##*#****#*-                          capability(stable):
               ###..     %%###########                          ------------------------
               *#*      %%#############                         general: Python, Golang
-               #:      %%#.*###*#*####=                        web: Javascrip, HTML, CSS, Node
+               #:      %%#.*###*#*####=                        web: Js, HTML, CSS, Node
                 #     %%##  ###########                        embedded: C, C++
-                 #   #%%#   .###**#####:                       db: SQL, Postgres, Mysql
+                 #   #%%#   .###**#####:                       db: Postgres, Mysql
                   #  %%##    #****######
                     %%%#.     *###**####=                      capability(beta):
                    +%##.      *###**####*                      ------------------------
